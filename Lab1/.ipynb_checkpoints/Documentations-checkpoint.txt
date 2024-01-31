@@ -1,0 +1,2 @@
+Matplotlib - https://matplotlib.org/stable/
+Pandas - https://pandas.pydata.org/docs/index.html
